@@ -3,6 +3,7 @@ The Rainbow
 Purple
 Pink
 Ornage
+Yellow
 Green
 Blue
 Red
