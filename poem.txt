@@ -5,6 +5,7 @@ Pink
 Ornage
 Yellow
 Green
+Indigo
 Unicorn
 Blue
 Red
